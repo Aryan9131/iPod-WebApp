@@ -1,5 +1,8 @@
-# iPod-WebApp
-iPod Web App using React.js.
+
+# iPod
+
+Built an iPod Web App using React.js.
+
 
 ## Features
 
@@ -13,4 +16,5 @@ iPod Web App using React.js.
 
 
 ## Deployment
+
 
